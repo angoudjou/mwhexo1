@@ -1,0 +1,7 @@
+C:\Users\nas\Documents\MagicWrighterHomeWork\ACHFindInvalidConsoleApp\ACHFindInvalidConsoleApp\bin\Debug\ACHFindInvalidConsoleApp.exe.config
+C:\Users\nas\Documents\MagicWrighterHomeWork\ACHFindInvalidConsoleApp\ACHFindInvalidConsoleApp\bin\Debug\ACHFindInvalidConsoleApp.exe
+C:\Users\nas\Documents\MagicWrighterHomeWork\ACHFindInvalidConsoleApp\ACHFindInvalidConsoleApp\bin\Debug\ACHFindInvalidConsoleApp.pdb
+C:\Users\nas\Documents\MagicWrighterHomeWork\ACHFindInvalidConsoleApp\ACHFindInvalidConsoleApp\obj\Debug\ACHFindInvalidConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\nas\Documents\MagicWrighterHomeWork\ACHFindInvalidConsoleApp\ACHFindInvalidConsoleApp\obj\Debug\ACHFindInvalidConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nas\Documents\MagicWrighterHomeWork\ACHFindInvalidConsoleApp\ACHFindInvalidConsoleApp\obj\Debug\ACHFindInvalidConsoleApp.exe
+C:\Users\nas\Documents\MagicWrighterHomeWork\ACHFindInvalidConsoleApp\ACHFindInvalidConsoleApp\obj\Debug\ACHFindInvalidConsoleApp.pdb
